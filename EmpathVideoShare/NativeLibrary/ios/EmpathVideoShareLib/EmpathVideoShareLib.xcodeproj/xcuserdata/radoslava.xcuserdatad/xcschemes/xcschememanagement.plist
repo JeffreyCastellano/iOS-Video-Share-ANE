@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AndroidANETemplateTestApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>MultiplatformANETemplateLib.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>MultiplatformANETemplateTestApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>853D8D1B1A4970AB0071749B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>853D8D261A4970AB0071749B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>853D8D3A1A4978B30071749B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>853D8D521A4978B40071749B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>854E2E111A5EEBD800ABC715</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>854E2E291A5EEBD900ABC715</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<extension xmlns="http://ns.adobe.com/air/extension/20.0">
+
+
+  <id>com.empath.extensions.social</id>
+
+  <versionNumber>1.0.0</versionNumber>
+
+  <platforms>
+
+    	<platform name="iPhone-ARM">
+    	<!-- platform name="iPhone-x86" -->
+            <applicationDeployment>
+                <nativeLibrary>libEmpathTemplateLib.a</nativeLibrary>
+                <initializer>EmpathTemplateExtensionInitializer</initializer>
+                <finalizer>EmpathTemplateExtensionFinalizer</finalizer>
+            </applicationDeployment>
+        </platform>
+        
+		<platform name="default"> 
+            <applicationDeployment/> 
+        </platform>
+        
+  </platforms>
+</extension>

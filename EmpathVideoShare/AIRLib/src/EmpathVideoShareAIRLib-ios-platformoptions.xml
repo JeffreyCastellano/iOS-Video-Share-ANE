@@ -1,0 +1,17 @@
+<platform xmlns="http://ns.adobe.com/air/extension/20.0">
+
+
+    <sdkVersion>8.0</sdkVersion>
+    <linkerOptions>
+        <option>-w</option>
+        <option>-framework AVFoundation</option>
+        <option>-framework ImageIO</option>
+        <option>-framework CoreImage</option>
+        <option>-framework MessageUI</option>
+    </linkerOptions>
+    <packagedDependencies>
+        <packagedDependency>3rdPartyFrameworks/FBSDKCoreKit.framework</packagedDependency>
+        <packagedDependency>3rdPartyFrameworks/FBSDKMessengerShareKit.framework</packagedDependency>
+        <packagedDependency>3rdPartyFrameworks/FBSDKShareKit.framework</packagedDependency>
+    </packagedDependencies>
+</platform>

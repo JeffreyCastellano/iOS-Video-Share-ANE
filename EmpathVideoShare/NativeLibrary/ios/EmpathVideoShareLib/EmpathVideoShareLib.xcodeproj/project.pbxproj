@@ -1,0 +1,335 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DC1C7AB41CE194E60081008E /* EmpathTemplateLib.m in Sources */ = {isa = PBXBuildFile; fileRef = DC1C7AB21CE194E60081008E /* EmpathTemplateLib.m */; };
+		DC6605B31CE255DD00CE0D61 /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC6605B01CE255DD00CE0D61 /* FBSDKCoreKit.framework */; };
+		DC6605B41CE255DD00CE0D61 /* FBSDKMessengerShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC6605B11CE255DD00CE0D61 /* FBSDKMessengerShareKit.framework */; };
+		DC6605B51CE255DD00CE0D61 /* FBSDKShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC6605B21CE255DD00CE0D61 /* FBSDKShareKit.framework */; };
+		DC6605B91CE256AC00CE0D61 /* FBMessenger.m in Sources */ = {isa = PBXBuildFile; fileRef = DC6605B81CE256AC00CE0D61 /* FBMessenger.m */; };
+		DC6605BC1CE256C300CE0D61 /* Facebook.m in Sources */ = {isa = PBXBuildFile; fileRef = DC6605BB1CE256C300CE0D61 /* Facebook.m */; };
+		DC6605C21CE29D7900CE0D61 /* CameraRoll.m in Sources */ = {isa = PBXBuildFile; fileRef = DC6605C11CE29D7900CE0D61 /* CameraRoll.m */; };
+		DC6605C51CE2B12D00CE0D61 /* Instagram.m in Sources */ = {isa = PBXBuildFile; fileRef = DC6605C41CE2B12D00CE0D61 /* Instagram.m */; };
+		DCCB43A51CE1AF9E00469F84 /* Mail.m in Sources */ = {isa = PBXBuildFile; fileRef = DCCB43A21CE1AF9E00469F84 /* Mail.m */; };
+		DCCB43A61CE1AF9E00469F84 /* SMSMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = DCCB43A41CE1AF9E00469F84 /* SMSMessage.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		853D8D1A1A4970AB0071749B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		853D8D1C1A4970AB0071749B /* libEmpathVideoShareLib.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libEmpathVideoShareLib.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC1C7AB21CE194E60081008E /* EmpathTemplateLib.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EmpathTemplateLib.m; path = EmpathTemplateLib/EmpathTemplateLib.m; sourceTree = SOURCE_ROOT; };
+		DC1C7AB31CE194E60081008E /* FlashRuntimeExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FlashRuntimeExtensions.h; path = EmpathTemplateLib/FlashRuntimeExtensions.h; sourceTree = SOURCE_ROOT; };
+		DC6605B01CE255DD00CE0D61 /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FBSDKCoreKit.framework; path = 3rdPartyFrameworks/FBSDKCoreKit.framework; sourceTree = "<group>"; };
+		DC6605B11CE255DD00CE0D61 /* FBSDKMessengerShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FBSDKMessengerShareKit.framework; path = 3rdPartyFrameworks/FBSDKMessengerShareKit.framework; sourceTree = "<group>"; };
+		DC6605B21CE255DD00CE0D61 /* FBSDKShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FBSDKShareKit.framework; path = 3rdPartyFrameworks/FBSDKShareKit.framework; sourceTree = "<group>"; };
+		DC6605B71CE256AC00CE0D61 /* FBMessenger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FBMessenger.h; path = EmpathTemplateLib/FBMessenger.h; sourceTree = SOURCE_ROOT; };
+		DC6605B81CE256AC00CE0D61 /* FBMessenger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FBMessenger.m; path = EmpathTemplateLib/FBMessenger.m; sourceTree = SOURCE_ROOT; };
+		DC6605BA1CE256C300CE0D61 /* Facebook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Facebook.h; path = EmpathTemplateLib/Facebook.h; sourceTree = SOURCE_ROOT; };
+		DC6605BB1CE256C300CE0D61 /* Facebook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Facebook.m; path = EmpathTemplateLib/Facebook.m; sourceTree = SOURCE_ROOT; };
+		DC6605C01CE29D7900CE0D61 /* CameraRoll.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CameraRoll.h; path = EmpathTemplateLib/CameraRoll.h; sourceTree = SOURCE_ROOT; };
+		DC6605C11CE29D7900CE0D61 /* CameraRoll.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CameraRoll.m; path = EmpathTemplateLib/CameraRoll.m; sourceTree = SOURCE_ROOT; };
+		DC6605C31CE2B12D00CE0D61 /* Instagram.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Instagram.h; path = EmpathTemplateLib/Instagram.h; sourceTree = SOURCE_ROOT; };
+		DC6605C41CE2B12D00CE0D61 /* Instagram.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Instagram.m; path = EmpathTemplateLib/Instagram.m; sourceTree = SOURCE_ROOT; };
+		DCCB43A11CE1AF9E00469F84 /* Mail.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Mail.h; path = EmpathTemplateLib/Mail.h; sourceTree = SOURCE_ROOT; };
+		DCCB43A21CE1AF9E00469F84 /* Mail.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Mail.m; path = EmpathTemplateLib/Mail.m; sourceTree = SOURCE_ROOT; };
+		DCCB43A31CE1AF9E00469F84 /* SMSMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SMSMessage.h; path = EmpathTemplateLib/SMSMessage.h; sourceTree = SOURCE_ROOT; };
+		DCCB43A41CE1AF9E00469F84 /* SMSMessage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SMSMessage.m; path = EmpathTemplateLib/SMSMessage.m; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		853D8D191A4970AB0071749B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC6605B31CE255DD00CE0D61 /* FBSDKCoreKit.framework in Frameworks */,
+				DC6605B41CE255DD00CE0D61 /* FBSDKMessengerShareKit.framework in Frameworks */,
+				DC6605B51CE255DD00CE0D61 /* FBSDKShareKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		853D8D131A4970AB0071749B = {
+			isa = PBXGroup;
+			children = (
+				DC6605B61CE2564600CE0D61 /* 3rdPartyFrameworks */,
+				853D8D1E1A4970AB0071749B /* EmpathTemplateLib */,
+				853D8D1D1A4970AB0071749B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		853D8D1D1A4970AB0071749B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				853D8D1C1A4970AB0071749B /* libEmpathVideoShareLib.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		853D8D1E1A4970AB0071749B /* EmpathTemplateLib */ = {
+			isa = PBXGroup;
+			children = (
+				DCC96B7B1CE8DA7F00D76AB0 /* Classes */,
+				DC1C7AB21CE194E60081008E /* EmpathTemplateLib.m */,
+				DC1C7AB31CE194E60081008E /* FlashRuntimeExtensions.h */,
+			);
+			name = EmpathTemplateLib;
+			path = MultiplatformANETemplateLib;
+			sourceTree = "<group>";
+		};
+		DC6605B61CE2564600CE0D61 /* 3rdPartyFrameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DC6605B01CE255DD00CE0D61 /* FBSDKCoreKit.framework */,
+				DC6605B11CE255DD00CE0D61 /* FBSDKMessengerShareKit.framework */,
+				DC6605B21CE255DD00CE0D61 /* FBSDKShareKit.framework */,
+			);
+			name = 3rdPartyFrameworks;
+			sourceTree = "<group>";
+		};
+		DCC96B7B1CE8DA7F00D76AB0 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				DC6605B71CE256AC00CE0D61 /* FBMessenger.h */,
+				DC6605B81CE256AC00CE0D61 /* FBMessenger.m */,
+				DC6605BA1CE256C300CE0D61 /* Facebook.h */,
+				DC6605C01CE29D7900CE0D61 /* CameraRoll.h */,
+				DC6605C11CE29D7900CE0D61 /* CameraRoll.m */,
+				DC6605BB1CE256C300CE0D61 /* Facebook.m */,
+				DC6605C31CE2B12D00CE0D61 /* Instagram.h */,
+				DC6605C41CE2B12D00CE0D61 /* Instagram.m */,
+				DCCB43A11CE1AF9E00469F84 /* Mail.h */,
+				DCCB43A21CE1AF9E00469F84 /* Mail.m */,
+				DCCB43A31CE1AF9E00469F84 /* SMSMessage.h */,
+				DCCB43A41CE1AF9E00469F84 /* SMSMessage.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		853D8D1B1A4970AB0071749B /* EmpathVideoShareLib */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 853D8D301A4970AB0071749B /* Build configuration list for PBXNativeTarget "EmpathVideoShareLib" */;
+			buildPhases = (
+				853D8D181A4970AB0071749B /* Sources */,
+				853D8D191A4970AB0071749B /* Frameworks */,
+				853D8D1A1A4970AB0071749B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EmpathVideoShareLib;
+			productName = MultiplatformANETemplateLib;
+			productReference = 853D8D1C1A4970AB0071749B /* libEmpathVideoShareLib.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		853D8D141A4970AB0071749B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = Empath;
+				TargetAttributes = {
+					853D8D1B1A4970AB0071749B = {
+						CreatedOnToolsVersion = 6.1;
+					};
+				};
+			};
+			buildConfigurationList = 853D8D171A4970AB0071749B /* Build configuration list for PBXProject "EmpathVideoShareLib" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 853D8D131A4970AB0071749B;
+			productRefGroup = 853D8D1D1A4970AB0071749B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				853D8D1B1A4970AB0071749B /* EmpathVideoShareLib */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		853D8D181A4970AB0071749B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DCCB43A51CE1AF9E00469F84 /* Mail.m in Sources */,
+				DC6605B91CE256AC00CE0D61 /* FBMessenger.m in Sources */,
+				DC6605BC1CE256C300CE0D61 /* Facebook.m in Sources */,
+				DC1C7AB41CE194E60081008E /* EmpathTemplateLib.m in Sources */,
+				DC6605C51CE2B12D00CE0D61 /* Instagram.m in Sources */,
+				DC6605C21CE29D7900CE0D61 /* CameraRoll.m in Sources */,
+				DCCB43A61CE1AF9E00469F84 /* SMSMessage.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		853D8D2E1A4970AB0071749B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		853D8D2F1A4970AB0071749B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		853D8D311A4970AB0071749B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Frameworks",
+					"$(PROJECT_DIR)/EmpathTemplateLib",
+					"$(PROJECT_DIR)/3rdPartyFrameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/3rdPartyFrameworks",
+				);
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = EmpathVideoShareLib;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		853D8D321A4970AB0071749B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Frameworks",
+					"$(PROJECT_DIR)/EmpathTemplateLib",
+					"$(PROJECT_DIR)/3rdPartyFrameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/3rdPartyFrameworks",
+				);
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = EmpathVideoShareLib;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		853D8D171A4970AB0071749B /* Build configuration list for PBXProject "EmpathVideoShareLib" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				853D8D2E1A4970AB0071749B /* Debug */,
+				853D8D2F1A4970AB0071749B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		853D8D301A4970AB0071749B /* Build configuration list for PBXNativeTarget "EmpathVideoShareLib" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				853D8D311A4970AB0071749B /* Debug */,
+				853D8D321A4970AB0071749B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 853D8D141A4970AB0071749B /* Project object */;
+}

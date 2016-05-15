@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/EmpathTemplateLib/FBMessenger.m \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/EmpathTemplateLib/FBMessenger.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/EmpathTemplateLib/FlashRuntimeExtensions.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Modules/module.modulemap \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKProfile.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKUtility.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKSettings.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKConstants.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKButton.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKMacros.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKCopying.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKMessengerShareKit.framework/Modules/module.modulemap \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKMessengerShareKit.framework/Headers/FBSDKMessengerBroadcastContext.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKMessengerShareKit.framework/Headers/FBSDKMessengerShareOptions.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKMessengerShareKit.framework/Headers/FBSDKMessengerURLHandlerCancelContext.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKMessengerShareKit.framework/Headers/FBSDKMessengerButton.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKMessengerShareKit.framework/Headers/FBSDKMessengerURLHandlerOpenFromComposerContext.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKMessengerShareKit.framework/Headers/FBSDKMessengerURLHandlerReplyContext.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKMessengerShareKit.framework/Headers/FBSDKMessengerURLHandler.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKMessengerShareKit.framework/Headers/FBSDKMessengerSharer.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKMessengerShareKit.framework/Headers/FBSDKMessengerContext.h \
+  /Users/jeffreycastellano/NativeExtensions/EmpathSocial/NativeLibrary/ios/EmpathSocialLib/3rdPartyFrameworks/FBSDKMessengerShareKit.framework/Headers/FBSDKMessengerShareKit.h
