@@ -49,7 +49,7 @@ Facebook integration requires a FB app ID. It's easy to make :) https://develope
 		<key>FacebookAppID</key>
 		<string>266977876984377</string>
 		<key>FacebookDisplayName</key>
-		<string>Wingman</string>
+		<string>ANESharerTest</string>
 		<key>LSApplicationQueriesSchemes</key>
 		<array>
   		<string>fbapi</string>
