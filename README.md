@@ -1,6 +1,6 @@
 # iOS-Video-Share-ANE Summary
 
-AIR is a handy tool for prototyping. This ANE / Native extension for iOS 7(?) and higher lets you share local videos (no web URLs!) to native apps like SMS, Mail and CameraRoll. In addition it supports Facebook sharing, Facebook Messenger sharing, and Instagram integration. This works without using the Document Interaction API. That API is great but sometimes you need to share directly to apps or want to skip the middle man process of loading yet another view before you get to where you need to go. This library can easily be adapted for images, urls, full Facebook use, etc but right now is focused on just video.
+AIR is a handy tool for prototyping. This ANE / Native extension for iOS 7(?) and higher lets you share local videos (no web URLs!) to native apps like SMS, Mail and CameraRoll. In addition it supports Facebook sharing, Facebook Messenger sharing, and Instagram integration. This works without using the Document Interaction API. Why? Sometimes you need to share directly to apps or want to skip the middle man process of loading yet another view before you get to where you need to go. This library can easily be adapted for images, urls, full Facebook use, etc but right now is focused on just video.
 
 
 #Warning
